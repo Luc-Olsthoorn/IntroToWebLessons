@@ -28,6 +28,16 @@ https://hub.docker.com/editions/community/docker-ce-desktop-mac/
 
 https://hub.docker.com/editions/community/docker-ce-desktop-windows/
 
+#### Slack
+
+Like any software company, we will be using slack to do a lot of our communication 
+
+https://slack.com/downloads/
+
+Join my slack 
+
+https://join.slack.com/t/lucsintrotoweb/shared_invite/zt-f24h70tv-af4H2FysPeNLZJ15pX8WyQ
+
 ### Assignment:
 
 Build a simple webpage (just .html) and make a button that when you press it, it alerts HELLO.
