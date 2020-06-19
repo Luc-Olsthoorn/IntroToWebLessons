@@ -24,7 +24,9 @@ This week we will have a very basic username storage setup.
 
 2. Make an endpoint `(/user)` where you can POST a name, and it stores it on the server (in a variable is fine)
 
-3. On the index.html page in step 1, create Javascript to call another endpoint `(/users)` GET
+3. On the index.html page in step 1: Make a text input with a button to POST the data to the /user endpoint
+
+4. On the index.html page in step 1: create Javascript to call another endpoint `(/users)` GET
 
 4. Display this list of users
 
